@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">守望学霸</string>
+
+    <string name="true_button">正确</string>
+    <string name="false_button">错误</string>
+    <string name="next_button">下一题</string>
+
+    <string name="correct_toast">答对了！</string>
+    <string name="incorrect_toast">回答错了。。</string>
+
+    <string name="xiaomei_question">小美的冰锥伤害会因目标距离的增加而衰减。</string>
+    <string name="lucio_question">卢西奥的音炮无法伤害到开闪的源氏。</string>
+    <string name="torbjorn_question">托比昂的锻造锤伤害和莱茵哈特相同。</string>
+    <string name="soldier76_question">士兵76的战术目镜可以自动锁定背后的敌人。</string>
+    <string name="reinhardt_question">竞技模式中莱因哈特可以撞死满血的小美。</string>
+    <string name="winston_question">温斯顿不喜欢自己的眼镜。</string>
+
+    <string name="warning_text">确定要看答案？</string>
+    <string name="show_answer_button">不要阻止我！</string>
+    <string name="answer_button">看看答案</string>
+    <string name="judgment_toast">都已经看过答案了，还选什么选-.-</string>
+</resources>
